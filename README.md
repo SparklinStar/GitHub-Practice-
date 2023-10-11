@@ -23,6 +23,10 @@
 - my name is snigdhaghosh# Github-Practice-
 ## Rajtanu
 - My name is Rajtanu Bagchi.
+## Rajarshi Bhowmik
+-my name is rajarshibhowmik# Github-Practice-
+## Aakriti
+- I am an undergraduate 
 ## Md Gouhar Habib
 - My name is Md Gouhar Habib# Github- practice-
 
