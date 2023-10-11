@@ -19,4 +19,8 @@
 - my name is ekramzafar# GitHub- practice-
 ## Rajat Mitra
 
+## Snigdha Ghosh
+- my name is snigdhaghosh# Github-Practice-
+
+
 
