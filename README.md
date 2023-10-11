@@ -23,7 +23,8 @@
 - my name is snigdhaghosh# Github-Practice-
 ## Rajtanu
 - My name is Rajtanu Bagchi.
-
+## Aakriti 
+- my name is Aakriti Mishra 
 
 
 
