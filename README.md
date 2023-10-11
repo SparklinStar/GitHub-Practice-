@@ -3,4 +3,4 @@
 - https://linktr.ee/chiragnahata
 
 *SAHIN MOLLA*
-- [Social's](https://linktr.ee/sahinmolla)
+- [Contact me](https://linktr.ee/sahinmolla)
