@@ -1,4 +1,3 @@
-
 # GitHub-Practice
 ### Anyone willing to get a github sticker please add their name along with their message in this readme file and make a successful PR. Sticker only available for JISCE students.
 
@@ -14,10 +13,10 @@
 - [Contact me](https://linktr.ee/sahinmolla)
 ## Somyadip Ghosh
 - my name is somyadipghosh# Github-Practice-
-#Shamonnoy Halder
+## Shamonnoy Halder
 - my name is Shamonnoy Halder # Github-practice-
-#ekram zafar
+## ekram zafar
 - my name is ekramzafar# GitHub- practice-
-
+## Rajat Mitra
 
 
