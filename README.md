@@ -1,6 +1,6 @@
 
 # GitHub-Practice
-### Anyone willing to get a github sticker please add their name along with their message in this readme file and make a successful PR.
+### Anyone willing to get a github sticker please add their name along with their message in this readme file and make a successful PR. Sticker only available for JISCE students.
 
 ## Akash Nath
 - This change is made from phone...not laptop
