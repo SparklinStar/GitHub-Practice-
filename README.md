@@ -2,5 +2,5 @@
 #Chirag Nahata
 - https://linktr.ee/chiragnahata
 
-#SAHIN MOLLA#
-- https://linktr.ee/sahinmolla
+*SAHIN MOLLA*
+- [Social's](https://linktr.ee/sahinmolla)
