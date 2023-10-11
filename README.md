@@ -1,3 +1,3 @@
 # GitHub-Practice-
-#Akash Nath
-- This change is made from phone...not laptop
+#Chirag Nahata
+- https://linktr.ee/chiragnahata
