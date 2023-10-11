@@ -14,6 +14,7 @@
 - [Contact me](https://linktr.ee/sahinmolla)
 ## Somyadip Ghosh
 - my name is somyadipghosh# Github-Practice-
-
+## Snigdha Ghosh
+- my name is snigdhaghosh# Github-Practice-
 
 
